@@ -18,9 +18,13 @@ End-to-end retail analytics project using Python, SQL Server, and Power BI to an
 - Sales Overview
 ![image alt](https://github.com/TANMAY6317/retail-sales-analysis/blob/2468a144a1e3ea6e2aac67d5b30278255d1dffc1/sales_dashboard.png)
 - Customer Insights
+![image alt](https://github.com/TANMAY6317/retail-sales-analysis/blob/4caac9de0bb981ab34c83a01323b913870fe6362/customer_dashboard.png)
 - Product Performance
+![image alt](https://github.com/TANMAY6317/retail-sales-analysis/blob/4caac9de0bb981ab34c83a01323b913870fe6362/product_dashboard.png)
 - Store Performance
+![image alt](https://github.com/TANMAY6317/retail-sales-analysis/blob/4caac9de0bb981ab34c83a01323b913870fe6362/store_dashboard.png)
 - Return Insights
+![image alt](https://github.com/TANMAY6317/retail-sales-analysis/blob/4caac9de0bb981ab34c83a01323b913870fe6362/returns_dashboard.png)
 
 ## Key Insights
 - Identified top-performing products and stores
