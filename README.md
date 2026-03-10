@@ -16,6 +16,7 @@ End-to-end retail analytics project using Python, SQL Server, and Power BI to an
 
 ## Dashboards
 - Sales Overview
+![image alt](https://github.com/TANMAY6317/retail-sales-analysis/blob/2468a144a1e3ea6e2aac67d5b30278255d1dffc1/sales_dashboard.png)
 - Customer Insights
 - Product Performance
 - Store Performance
